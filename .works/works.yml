@@ -1,0 +1,19 @@
+name: test-directory
+kind: directory
+description: Diretório de teste gerado pelo Ever Works
+items:
+  - name: Restaurantes do Centro
+    description: Guia dos melhores restaurantes da região central
+    category: comida
+  - name: Cafés Especiais
+    description: Cafeterias com grãos de origem
+    category: bebida
+  - name: Padarias Artesanais
+    description: Pães e doces feitos na hora
+    category: comida
+  - name: Livrarias Independentes
+    description: Livrarias de bairro com curadoria
+    category: cultura
+  - name: Galerias de Arte
+    description: Espaços de arte contemporânea
+    category: cultura
